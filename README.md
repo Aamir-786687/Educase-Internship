@@ -1,12 +1,37 @@
-# React + Vite
+## Project Setup (Vite + React)
+This project is built using Vite and React.js.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛠️ How to run locally:
+1. Clone the repository
 
-Currently, two official plugins are available:
+- git clone your-repository-link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Go into the project folder
 
-## Expanding the ESLint configuration
+- cd your-project-folder-name
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Install dependencies
+
+- npm install
+ 
+ 4. Start the development server
+
+- npm run dev
+
+5. Open in browser
+
+- After running, you will see something like:
+
+- VITE vX.X.X  ready in X.Xs
+
+➜  Local:   http://localhost:5173/
+➜  Network: use --host to expose
+
+- Open http://localhost:5173/ in your browser to view the app.
+
+6. Deployment 
+
+- Deployed on Vercel: https://educase-internship-nine.vercel.app/
+
+
+## Made with ❤️ using React and Vite.
