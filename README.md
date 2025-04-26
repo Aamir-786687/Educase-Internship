@@ -4,21 +4,17 @@ This project is built using Vite and React.js.
 ## 🛠️ How to run locally:
 1. Clone the repository
 
-- git clone your-repository-link
+- git clone https://github.com/Aamir-786687/Educase-Internship.git
 
-2. Go into the project folder
-
-- cd your-project-folder-name
-
-3. Install dependencies
+2. Install dependencies
 
 - npm install
  
- 4. Start the development server
+3. Start the development server
 
 - npm run dev
 
-5. Open in browser
+4. Open in browser
 
 - After running, you will see something like:
 
@@ -29,7 +25,7 @@ This project is built using Vite and React.js.
 
 - Open http://localhost:5173/ in your browser to view the app.
 
-6. Deployment 
+5. Deployment 
 
 - Deployed on Vercel: https://educase-internship-nine.vercel.app/
 
